@@ -1,17 +1,21 @@
-## First, make sure that the following packages are installed in R, or 
-## download and install load using the default approach: 
+## First, make sure that:
+##
+## 1) The latets version of R is installed from https://cran.r-project.org/
+## 
+## 2) That the following packages are installed in R (using the default 
+## approach): 
 ## gamm4, splines, Formula, lme4, partykit, mgcv, sandwich, merDeriv
 ## graphics, stats, utils, Formula, vcd, lattice, lmerTest, devtools
 ## ggplot2 ggpubr
-
-## Install the workhop's key libraries (currently development versions 
+##
+## 3) Install the workhop's key libraries (currently development versions 
 ## due to recent changes, will be available through standard CRAN 
-## repository during workshop)"
+## repository during workshop):
 library("devtools")
 install_github("r-forge/partykit/pkg/glmertree")
 install_github("marjoleinF/gamtree")
-## If you get a warning about other packages needing updating, type 1, 2 or 3, 
-## does not really make a difference
+## If you get a warning about other packages needing updating, type either 
+## 1, 2 or 3, should notdoes not really make a difference.
 
 ## Load libraries
 library("ggplot2")
