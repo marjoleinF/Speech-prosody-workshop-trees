@@ -1,6 +1,6 @@
 ## First, make sure that:
 ##
-## 1) The latets version of R is installed from https://cran.r-project.org/
+## 1) The latest version of R is installed from https://cran.r-project.org/
 ## 
 ## 2) That the following packages are installed in R (using the default 
 ## approach): 
