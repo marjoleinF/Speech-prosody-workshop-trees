@@ -4,6 +4,8 @@
 
 This folder contains all workshop materials for the workshop. All data files have the extension .rda. 
 
+Before running the R script, make sure to update to or install the latest versions of R from https://cran.r-project.org/.
+
 ## References
 
 Fokkema, M., Smits, N., Zeileis, A., Hothorn, T., & Kelderman, H. (2018). Detecting treatment-subgroup interactions in clustered data with generalized linear mixed-effects model trees. Behavior research methods, 50, 2016-2034. https://doi.org/10.3758/s13428-017-0971-x
