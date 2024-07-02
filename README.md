@@ -12,7 +12,7 @@ There were three topics covered in the workshop:
 
   * Part III: Subgroup detection in smoothing splines: Partitioning semi-parametric spline models.
 
-There are two folders on this repository, containing all necessary files, with self-explanatory names:
+There are two folders on this repository, containing all relevant files, with self-explanatory names:
 
   * Presentation slides
 
