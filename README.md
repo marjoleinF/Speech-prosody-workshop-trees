@@ -2,6 +2,21 @@
 
 ## Workshop on GLMM and GAM trees by Marjolein Fokkema
 
-This folder will contain all materials for the workshop. All data files have the extension .rda. 
+This folder contains all materials for the workshop. All data files have the extension .rda. 
 
-Before running the R script, make sure to update to or install the latest versions of R from https://cran.r-project.org/.
+There were three topics covered in the workshop: 
+
+Part I: Trees and mixed-effects model trees.
+
+Part II: Subgroup detection in longitudinal data: Partitioning linear and parametric spline models.
+
+Part III: Subgroup detection in smoothing splines: Partitioning semi-parametric spline models.
+
+There are two folder on this repository, with self-explanatory names:
+
+Presentation slides
+
+Code, instructions and data
+
+
+Before running the R analyses, make sure to update to or install the latest versions of R from https://cran.r-project.org/.
