@@ -20,3 +20,5 @@ There are two folders on this repository, containing all relevant files, with se
 
 
 Before running the R analyses, make sure to update to or install the latest versions of R from https://cran.r-project.org/.
+
+Musical intermezzo: I have written a song about smoothing splines: https://www.youtube.com/watch?v=HPT4OZN_yG4
